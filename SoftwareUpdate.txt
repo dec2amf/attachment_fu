@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add horizontal Mosaic3 augmentation (#6898)
